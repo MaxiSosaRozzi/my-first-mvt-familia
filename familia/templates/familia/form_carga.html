@@ -1,13 +1,12 @@
+{%extends "familia/index.html" %}
+
+
 {% load django_bootstrap5 %}
 
-{# Load CSS and JavaScript #}
-{% bootstrap_css %}
-{% bootstrap_javascript %}
-
-{# Display django.contrib.messages as Bootstrap alerts #}
-{% bootstrap_messages %}
 
 
+
+{%block cuerpo%}
 <div class="container">
    <div class="row">
      <div class="col">
@@ -24,4 +23,4 @@
      </div>
    </div>
  </div>
- 
+ {%endblock%}
