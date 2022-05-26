@@ -1,5 +1,5 @@
 # my-first-mvt-familia
 
-
-Así quedó el atributo de clase ALTURA agregado.
+# Aclaración: LA APP se encuentra en la branch "Master", 
+Así quedó la app con el atributo ALTURA agregado.
 
